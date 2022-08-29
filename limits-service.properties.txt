@@ -1,2 +1,2 @@
-limits-service.minimum=8  
-limits-service.maximum=888  
+microservices.minimum=8 
+microservices.maximum=888
