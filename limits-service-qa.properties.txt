@@ -1,2 +1,0 @@
-microservices.minimum=2 
-microservices.maximum=222
